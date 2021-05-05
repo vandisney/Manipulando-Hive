@@ -36,7 +36,8 @@ fields terminated by ','<br/>
 lines terminated by '\n'<br/>
 stored as textfile<br/>
 tblproperties("skip.header.line.count"="1");
-<p/>
+</p>
+
 ![imagem3](https://github.com/vandisney/Manipulando-Hive/blob/main/imagens/imagem3.png)
 
 
